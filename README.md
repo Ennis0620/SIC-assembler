@@ -1,4 +1,4 @@
-SIC-XE-assembler
+SIC-assembler
 ===
 
 # Introduction
