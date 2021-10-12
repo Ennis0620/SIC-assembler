@@ -4,11 +4,11 @@ SIC-assembler
 # Introduction
 據System Software，進一步了解Assembler的原理，並予以實作
 # Detail
-SIC指令格式
+SIC指令格式 為24bits
 
-|Opcode:8|	x:1	|address:15|
+| Opcode:8 | x:1 | address:15 |
+| ---| ---- | ---- |
 
-為24bits
 
 
 暫存器有:A(累加器)、X(索引)、L(連結)、PC(程式計數器)、SW(狀態字組)
